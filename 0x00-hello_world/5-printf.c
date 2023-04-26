@@ -2,8 +2,9 @@
 /**
 * main - Entry point
 *
-* Return: Always o (success)                          */
+* Return: Always o (success)
+*/
 int main(void)
-{	printf("with proper grammar, but the outcome is a piece of art,\n");
+{    	printf ("with proper grammar, but the outcome is a piece of art,\n");
 	return(0);
 }
